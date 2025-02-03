@@ -1,0 +1,7 @@
+# Ignore Python virtual environment
+venv/
+.env/
+
+# Ignore configuration files with sensitive data
+config.json
+secrets.enc
