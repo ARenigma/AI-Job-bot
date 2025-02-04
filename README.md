@@ -1,1 +1,1 @@
-"# LinkedIn Job Bot" 
+"LinkedIn Job Bot" 
